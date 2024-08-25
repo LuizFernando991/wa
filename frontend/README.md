@@ -9,10 +9,6 @@ Este programa permite criar arquivos json possibilitando a montagem de hierarqui
 ------
 
 *   [Instalação](#instalacao)
-*   [Uso](#uso)
-*   [Opções](#opcoes)
-*   [Exemplos](#exemplos)
-*   [Como Funciona](#como-funciona)
 
 Instalação
 ----------
