@@ -1,0 +1,89 @@
+{
+  "Animais": {
+    "Mamíferos": {
+      "Carnívoros": {
+        "Felinos": {
+          "Leões": null,
+          "Tigres": null,
+          "Jaguars": null,
+          "Leopardos": null,
+          "Guepardos": null
+        },
+        "Canídeos": {
+          "Lobos": null,
+          "Cães": null,
+          "Raposas": null
+        }
+      },
+      "Herbívoros": {
+        "Equídeos": {
+          "Cavalos": null,
+          "Zebras": null,
+          "Asnos": null
+        },
+        "Ruminantes": {
+          "Búfalos": null,
+          "Gado": null,
+          "Veados": null,
+          "Girafas": null
+        }
+      },
+      "Bovídeos": {
+        "Bois": null,
+        "Búfalos": null,
+        "Antílopes": null,
+        "Cabras": null,
+        "Carneiros": null
+      },
+      "Primatas": {
+        "Gorilas": null,
+        "Chimpanzés": null,
+        "Orangotangos": null,
+        "Macacos": null
+      }
+    },
+    "Aves": {
+      "Rapinas": {
+        "Águias": null,
+        "Falcões": null,
+        "Corujas": null,
+        "Milhafres": null,
+        "Águias Pescadoras": null
+      },
+      "Pássaros": {
+        "Canários": null,
+        "Papagaios": null,
+        "Pardais": null,
+        "Rouxinóis": null,
+        "Andorinhas": null
+      },
+      "Aves Marinhas": {
+        "Pinguins": null,
+        "Albatroses": null,
+        "Gaivotas": null
+      }
+    },
+    "Réptiles": {
+      "Serpentes": {
+        "Cobras": null,
+        "Pítons": null,
+        "Jararacas": null
+      },
+      "Lagartos": {
+        "Iguanas": null,
+        "Dragões Barbudos": null,
+        "Geckos": null
+      }
+    },
+    "Anfíbios": {
+      "Sapos": {
+        "Sapos-Comuns": null,
+        "Sapos-Cururu": null
+      },
+      "Rãs": {
+        "Rãs-Touro": null,
+        "Rãs-de-Água-Doce": null
+      }
+    }
+  }
+}
